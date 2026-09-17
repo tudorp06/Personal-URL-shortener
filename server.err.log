@@ -1,0 +1,5 @@
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://127.0.0.1:3000
+Press CTRL+C to quit
+127.0.0.1 - - [17/Sep/2026 02:11:54] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [17/Sep/2026 02:12:23] "GET / HTTP/1.1" 200 -
